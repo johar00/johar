@@ -1,1 +1,3 @@
 
+git remote add origin https://github.com/johar00/johar00.git
+git push -u origin master
